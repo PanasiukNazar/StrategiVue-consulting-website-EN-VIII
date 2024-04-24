@@ -1,1 +1,1 @@
-# StrategiVue-consulting-website-EN-VIII
+[DEMO](https://panasiuknazar.github.io/StrategiVue-consulting-website-EN-VIII/)
